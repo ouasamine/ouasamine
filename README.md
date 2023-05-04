@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer
 
-- I am currently a full-time student at [Microverse](https://www.microverse.org) 💻
+- [Microverse](https://www.microverse.org) graduate 💻
 - I started coding when I was a kid 💞
-- I am a college graduate in Electronics engineering 
+- Electronics engineering graduate
 - I am open to new opportunities
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
