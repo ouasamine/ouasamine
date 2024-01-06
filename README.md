@@ -11,14 +11,11 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 ## LANGUAGES & Technologies
 
 <p>
-  $\textcolor{#f020d5}{[ HTML ]}$ 
-  $\textcolor{#1020d5}{[ CSS ]}$   
-  $\textcolor{#102a050}{[ JavaScript ]}$ 
-  $\textcolor{#10f0de}{[ Ruby ]}$  
+  $\textcolor{#e1a054}{[ Python | Django | Flask ]}$ 
+  $\textcolor{#10f0de}{[ Ruby | Ruby On Rails ]}$  
+  $\textcolor{#102a050}{[ TypeScript | React(NextJS) ]}$ 
   $\textcolor{#55a030}{[ SQL ]}$ 
-  $\textcolor{#a0a055}{[ Bootstrap ]}$   
-  $\textcolor{#efef54}{[ React.JS ]}$   
-  $\textcolor{#e1a054}{[ Rails ]}$ 
+  $\textcolor{#f020d5}{[ TailwindCSS ]}$ 
 </p> 
 
 ## TOOLS
@@ -26,9 +23,8 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/amine-ouassef/).
 <p>
   $\textcolor{#2767de}{[ VSCode ]}$   
   $\textcolor{#33afa5}{[ Git ]}$   
-  $\textcolor{#a55a5a}{[ GitHub ]}$   
   $\textcolor{#1020ff}{[ Jira ]}$   
-  $\textcolor{#a5f55a}{[ Slack ]}$   
+  $\textcolor{#a5f55a}{[ LucidChart ]}$   
   $\textcolor{#e5f025}{[ Figma ]}$   
 </p>
 
